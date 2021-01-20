@@ -1,0 +1,20 @@
+{
+    "name": "pizzaapi",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/janvirighthere/pizzaapi.git"
+    },
+    "keywords": [],
+    "author": "Janvier Uwiragiye",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/janvirighthere/pizzaapi/issues"
+    },
+    "homepage": "https://github.com/janvirighthere/pizzaapi#readme"
+}
