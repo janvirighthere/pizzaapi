@@ -1,0 +1,87 @@
+{
+    "pizzas": [{
+            "id": 0,
+            "name": "Pepperoni",
+            "restaurant": "PizzaHut",
+            "web": "www.pizzahut.ca",
+            "description": "a delicious pizza with well made crust",
+            "ingredients": ["pepperoni", "cheese", "sauce"],
+            "addresses": [{
+                "addressid": 0,
+                "country": "Canada",
+                "province": "Quebec",
+                "city": "Sainte-Marthe"
+            }]
+        },
+        {
+            "id": 1,
+            "name": "Pepperoni",
+            "restaurant": "PizzaPizza",
+            "web": "www.pizzapizza.ca",
+            "description": "a cheap pizza amde with with a delicous sauce",
+            "ingredients": ["pepperoni", "cheese", "sauce"],
+            "addresses": [{
+                "addressid": 1,
+                "country": "Canada",
+                "province": "Quebec",
+                "city": "Laval"
+            }]
+        },
+        {
+            "id": 2,
+            "name": "Cheese",
+            "restaurant": "Dominos",
+            "web": "www.dominos.ca",
+            "description": "a cheap pizza amde with with a delicous sauce",
+            "ingredients": ["cheese", "sauce"],
+            "addresses": [{
+                "addressid": 2,
+                "country": "Canada",
+                "province": "Toronto",
+                "city": "York Region"
+            }]
+        },
+        {
+            "id": 3,
+            "name": "Deluxe",
+            "restaurant": "Papa John's",
+            "web": "www.papajohns.ca",
+            "description": "a good pizza amde with with a delicous sauce and amzing crust",
+            "ingredients": [
+                "beef",
+                "tomatoes",
+                "green peppers",
+                "mushrooms",
+                "cheese",
+                "sauce"
+            ],
+            "addresses": [{
+                "addressid": 3,
+                "country": "Canada",
+                "province": "Toronto",
+                "city": "Mississauga"
+            }]
+        },
+        {
+            "id": 2,
+            "name": "Deluxe",
+            "restaurant": "Dominos",
+            "web": "dominos.ca",
+            "description": "a good pizza especially for munchies",
+            "ingredients": [
+                "beef",
+                "tomatoes",
+                "green peppers",
+                "mushrooms",
+                "cheese",
+                "sauce"
+            ],
+            "addresses": [{
+                "addressid": 2,
+                "country": "Canada",
+                "province": "Toronto",
+                "city": "York Region"
+            }]
+        }
+    ]
+}
